@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "title": "Purna Gallery | Opening in Alserkal Avenue, Dubai",
+    "description": "A contemporary South Asian design house, built in and for the Gulf. Collectible design, art, ceramics, vintage and architectural hardware, opening soon in Alserkal Avenue, Dubai."
+  },
+  "hero": {
+    "status": "Coming soon",
+    "location": "Alserkal Avenue, Dubai",
+    "wordmark": "PURNA",
+    "subline": "GALLERY",
+    "tagline": "A contemporary South Asian design house, built in and for the Gulf",
+    "image": {
+      "src": "/images/gallery-interior.jpg",
+      "alt": "Inside Purna Gallery: a double-height room of dark timber furniture, ceramics and sculpture under warm track lighting"
+    },
+    "designersLink": "For designers"
+  },
+  "notify": {
+    "label": "Hear when the doors open",
+    "placeholder": "Your email",
+    "button": "Notify me",
+    "sending": "Adding you",
+    "note": "One note now to confirm, and one when we open."
+  },
+  "position": {
+    "eyebrow": "Position",
+    "heading": "A new platform for South Asian design in the Gulf",
+    "lede": "Purna is a contemporary South Asian design house based in Dubai. It brings together collectible objects, art, ceramics, vintage pieces, architectural hardware and a tightly edited selection of original furniture.",
+    "paragraphs": [
+      "The house presents work from across South Asia through commissions, collaborations and considered sourcing. Some pieces are developed and produced by Purna; others are selected from independent artists, ceramicists, designers and specialist workshops.",
+      "Purna is neither a conventional furniture showroom nor a white-cube gallery. It is a commercially active platform where South Asian design can be discovered, collected, commissioned and specified."
+    ],
+    "audienceLabel": "Who we speak to",
+    "audiences": ["Architects & interior designers", "Regional collectors", "Hospitality and residential projects"]
+  },
+  "programme": {
+    "eyebrow": "The gallery",
+    "heading": "An intentionally layered collection",
+    "pillars": [
+      {
+        "name": "Contemporary design",
+        "summary": "Furniture, lighting, textiles, metalwork and collectible objects from across South Asia.",
+        "image": { "src": "/images/contemporary-design.jpg", "alt": "A low oval bench upholstered in a patterned textile on a dark timber base" }
+      },
+      {
+        "name": "Art, ceramics & objects",
+        "summary": "Emerging and independent artists, ceramics, vessels and sculpture, collected on their own or alongside larger works.",
+        "image": { "src": "/images/art-ceramics-objects.jpg", "alt": "A glazed ceramic sculpture of a many-headed creature with a toothed grin" }
+      },
+      {
+        "name": "Vintage & found",
+        "summary": "Furniture, objects and architectural fragments chosen for their material, craftsmanship and provenance.",
+        "image": { "src": "/images/vintage-found.jpg", "alt": "A caned planter's chair beside a lamp and a framed portrait" }
+      },
+      {
+        "name": "Architectural hardware",
+        "summary": "Nuhas: sculptural door and cabinet hardware in solid bronze, made to be specified.",
+        "image": { "src": "/images/architectural-hardware.jpg", "alt": "Four organic bronze wall hooks from the Nuhas hardware programme" }
+      }
+    ],
+    "closing": "Purna is not conceived as a conventional furniture showroom, but as a changing South Asian design gallery, bringing furniture, art, objects, vintage and hardware together within one evolving programme."
+  },
+  "location": {
+    "eyebrow": "Home",
+    "heading": "A home in Alserkal Avenue",
+    "paragraphs": [
+      "Purna is opening in Alserkal Avenue, Dubai's arts district, among galleries including The Third Line, Lawrie Shabibi, Green Art Gallery and Leila Heller Gallery, and cultural spaces such as Concrete and Cinema Akil.",
+      "It will be a permanent setting where work can be experienced in person, through a changing gallery, exhibitions, launches, designer talks and private appointments."
+    ],
+    "image": { "src": "/images/storefront.jpg", "alt": "The Purna Gallery storefront, its name in bronze letters above a glass front" }
+  },
+  "designers": {
+    "eyebrow": "Working with Purna",
+    "heading": "For designers and studios",
+    "intro": [
+      "Purna is building its inaugural programme and beginning conversations with a small group of designers and studios whose work can help shape a new platform for South Asian design in the Gulf.",
+      "We are interested in relationships that evolve over time, from presenting existing work in Dubai to developing exclusive pieces, commissions and new collections together."
+    ],
+    "ways": [
+      { "title": "Representation", "text": "A physical presence in Dubai for selected existing work, with regional sales, collector relationships and project specification." },
+      { "title": "Commissions & exclusives", "text": "Exclusive pieces, regional editions and new commissions developed for the gallery or its clients." },
+      { "title": "Long-term collaboration", "text": "New work, exhibitions and installations over time, with direct access to collectors, architects and the design community." }
+    ],
+    "formHeading": "Tell us about your practice",
+    "button": "Send enquiry",
+    "sending": "Sending",
+    "programmeOptions": [
+      { "value": "contemporary-design", "label": "Contemporary design" },
+      { "value": "art-ceramics-objects", "label": "Art, ceramics & objects" },
+      { "value": "vintage-found", "label": "Vintage & found" },
+      { "value": "architectural-hardware", "label": "Architectural hardware" },
+      { "value": "other", "label": "Something else" }
+    ]
+  },
+  "contact": {
+    "email": "sanjana@purnagallery.com",
+    "phone": null,
+    "location": "Alserkal Avenue, Al Quoz, Dubai"
+  }
+}

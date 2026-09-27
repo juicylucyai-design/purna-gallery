@@ -1,0 +1,13 @@
+node_modules/
+dist/
+web/.next/
+web/out/
+web/next-env.d.ts
+.local-db/
+.claude/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+*.tsbuildinfo
